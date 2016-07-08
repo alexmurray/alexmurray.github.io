@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/alexmurray
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexmurray.io
+  * I am alexmurray (https://keybase.io/alexmurray) on keybase.
+  * I have a public key with fingerprint 4D2A D64A A650 A333 4867  1E17 94CB FBD8 BA4E 24F6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e68e0dc5d97fe389dddc4c7009abef6b658761f3500ba7d10abcae0151e97ad90a",
+            "fingerprint": "4d2ad64aa650a33348671e1794cbfbd8ba4e24f6",
+            "host": "keybase.io",
+            "key_id": "94cbfbd8ba4e24f6",
+            "kid": "0101e68e0dc5d97fe389dddc4c7009abef6b658761f3500ba7d10abcae0151e97ad90a",
+            "uid": "cb965c24a6c0dc61b79ee77604634d19",
+            "username": "alexmurray"
+        },
+        "service": {
+            "hostname": "alexmurray.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467978460,
+    "expire_in": 157680000,
+    "prev": "efa3a4ed7c3da4b34497b788156eca02b184a1933da8023cffe7d0e090a8b22e",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUm1QVFUYXhCYcdMiE4vJJr05jtoK5+79XrNBqEFGcFaZoEBYzr33XLiw7K53
+L+si+DGMxhg0JGiU5WyF1ChKIJmDCk4RkW5iEYiu1QhCmDoujEAkat1L9at+dv6c
+Oe/7PM95nnfet+bOMoSG7PNPXz61fslkiP9X3pC+o/p6CcY7xWLMUoIVoJkL2UXk
+Vm0FsohZMIADHNEsAqJAiRwjIYLlRFEUSIEBgIM8kmiepliGxiWCAoCHjIgDyAsQ
+AZzCEcdAkQMQM2GS7MhFikuRHaomS4pmKNIkhDQFIEEQJEszOMIZjhR4iRdZHpLI
+TEq0RsxzunWGZo6HbhQjO7Wa9rDN2PsP/P/su2hGTuA5mhLMJKQFTZHGeYZDiGFo
+QNIEKeKcDnQjxQELkYaGduQtLFIUWIxtM2Fa3SMLSB+tnuVfmL8iuRSn6hScdq2V
+p6oui85Ui106dAvibX+L2HjZIWqT1AgepLhlpwOz4BpSUGVdFSdphmNYkgYmDHld
+soJsso6gGJoF2tG/QR5NEkmQgBkkEhmBECHJEyTJMTzDsjhFIwECM4+zJMQ5Quuy
+wEwIkoQYESCgDYXlzWaE6bk2O5yYhdJ8wlxN0y3nOqBapCBsm3FP6MIwQ0ioISI8
+VN8xg3F25D+L1/dcpOHA/DPxkWEG6a419dLQO9Nxt25PRUHrV4uG44Zrds6bkiJx
+Irho0y9fbNpvuS+/FPzG8APbrT70F6zp7KrqTKu+UJp2b8QafKXKV5MH3yeSHp5t
+qK+kFgd3lNdker3AP+en2DpPV3jiZI/72IcH3r7xanedvdxxrjn8zrVAQ3xmr9Wc
+uXFXI3to7+IFbsL3qe2p7bfxR0oH6obPhSU8uTF8/PX8uTGOlF3VoRH4b2FxMUcz
+htr9npzs/NM++5zjs1LhcddjRo5affOPtOtt3abGflNpa3o9WL6sjNy8avxI4OpV
+ZXZ/rndpZPTP8HRyYOtgj23r4TL2Rpa1I+Uzry+nYG9tXvPSiJa8lV1rBjuSki4F
+zGjihcHCiy0tZOWg30oF0TjeWns+AZsyRg9/1JP8Jnh8Hvt9bMnXJ5lDVf7m9nWp
+4RfagvmJDzZUNEWVWkdLbv5uSE5ZETvxWt3YqjdOjB/LuGf/eO211CfG0vtuXXm2
+/n7nwOcHaezO2ncbXqx8/suQhKzllsTJonJ4/syVoqMhgR8/qH0vMZd4NCzYH707
+ZsuC3pq0cd/60Qo1O2rZ6Nmmsri+7JxWJmVffG/f7ssdsf2H7yJj9DPzzVmr5RVt
+JyoCC79NsikvX8xfMrbTMhFXs2flurFPNjzdfkQY2u9rbGIOjiQ/KFWnB7afGvku
+aDwpmMg/AQ==
+=0gGD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexmurray
+
+==================================================================
